@@ -27,7 +27,7 @@
     "author": "Plotly <chris@plot.ly>",
     "license": "MIT",
     "dependencies": {
-        "@mui/material": "^5.12.2",
+        "@mui/material": "^5.12.3",
         "@mui/icons-material": "^5.11.16",
         "@emotion/styled": "^11.10.8",
         "@emotion/react": "^11.10.8",
