@@ -32,7 +32,7 @@
         "@emotion/styled": "^11.10.8",
         "@emotion/react": "^11.10.8",
         "ag-grid-community": "^29.3.3",
-        "ag-grid-enterprise": "^29.3.3",
+        "ag-grid-enterprise": "^29.3.4",
         "ag-grid-react": "^29.3.3",
         "d3-format": "^3.1.0",
         "d3-time": "^3.1.0",
